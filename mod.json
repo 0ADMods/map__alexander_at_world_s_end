@@ -1,0 +1,9 @@
+{
+    "name": "map_alexander_at_world_s_end",
+    "version": "0.0.17",
+    "label": "Alexander at World's End",
+    "url": "github.com/0ADMods/map__alexander_at_world_s_end",
+    "description": "Shieldwolf's experimental trigger map featuring Alexander's conquest of India.",
+    "dependencies": ["0ad=0.0.17"],
+    "type": "content map"
+}
